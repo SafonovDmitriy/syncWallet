@@ -10,14 +10,13 @@ export default makeStyles({
     },
   },
   navLink: {
-    color: "black",
+    color: "grey",
     transition: "all 0.5s",
     "&:hover": {
       color: "white",
     },
   },
   navLink_active: {
-    // fontSize: 24,
     color: "white",
   },
 });
